@@ -1,0 +1,7 @@
+another103 module
+=================
+
+.. automodule:: another103
+   :members:
+   :undoc-members:
+   :show-inheritance:
